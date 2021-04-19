@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Page Main 1`] = `
+<div>
+  <div>
+    MyComponent
+  </div>
+   GlobalProperty: True
+</div>
+`;
